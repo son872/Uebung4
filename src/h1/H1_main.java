@@ -25,7 +25,7 @@ public class H1_main {
 			
 			
 			default:
-				price = 6;
+				price = 4;
 				break;
 		}
 		System.out.println(price);
